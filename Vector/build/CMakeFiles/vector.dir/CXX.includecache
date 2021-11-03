@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/OCEMAN/Desktop/Pointer_Vector/Vector/build/main.cpp
+iostream
+-
+my_vector.h
+/mnt/c/Users/OCEMAN/Desktop/Pointer_Vector/Vector/build/my_vector.h
+
