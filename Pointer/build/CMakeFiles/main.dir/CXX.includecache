@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/OCEMAN/Desktop/Pointer_Vector/Pointer/build/main.cpp
+iostream
+-
+vector
+-
+string
+-
+iomanip
+-
+
